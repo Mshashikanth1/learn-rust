@@ -1,0 +1,4 @@
+foo's value is : 10
+boo's value is : 20
+moo's value is : 30
+doo's value is : 40
